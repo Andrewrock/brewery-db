@@ -121,6 +121,5 @@ run: npm install --global gulp
 intall local dependencies: 
 npm install
 
-
 to install the scss-lint
 run: npm install gulp-scsslint --save-dev
