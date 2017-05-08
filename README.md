@@ -70,13 +70,12 @@ Copyright 2015 Google Inc
 
 ## Brew Requirements
 
-API KEY: b0fccf169c1bb375b16378e2680ca1c9
+ API KEY: b0fccf169c1bb375b16378e2680ca1c9
 
-After several attempts at connecting to the API.
-Attempted to connect to API using PHP wrappers
+After several attempts at connecting to the API. Attempted to connect to API using PHP wrappers
 see (https://github.com/stephenyeargin/angularjs-brewery-db)
 
-Also tried the ruby options using the recommended
+ Also tried the ruby options using the recommended
 service hooks, again with no luck
 
 Also after encountering several CORS issues and no luck with the Angular CLI
@@ -105,7 +104,7 @@ Extra features added include:
 search recommendations presented on focus (js free)
 when filtering beers and breweries, if nothing is available, a warning message is supplied.
 
-Assumptions made: 
+## Assumptions made: 
 Browser support IE 11 and greater.
 
 
@@ -114,12 +113,13 @@ Developed using Sass with browser prefixes added through autoprefixer.
 
 ## Installation Instructions 
 run:
-npm install --global gulp && npm install
-install : gulp
+npm install --global gulp && npm install 
+
+To install : gulp
 run: npm install --global gulp
 
-intall local dependencies: 
+## install local dependencies: 
 npm install
 
-to install the scss-lint
+## install the scss-lint
 run: npm install gulp-scsslint --save-dev
