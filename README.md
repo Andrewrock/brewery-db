@@ -100,7 +100,7 @@ breweries and as a result are hidden.
 Clicking on a brewery will bring you to the brewery website.
 
 
-Extra features added include:
+## Extra features added include:
 search recommendations presented on focus (js free)
 when filtering beers and breweries, if nothing is available, a warning message is supplied.
 
